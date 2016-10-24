@@ -20,3 +20,6 @@ erl_crash.dump
 twl06.txt
 opsd.txt
 merged.txt
+
+# Compiled binary
+scrabble
