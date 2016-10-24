@@ -1,0 +1,2 @@
+defmodule Scrabble do
+end
